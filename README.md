@@ -1,3 +1,3 @@
 a wise man once said,
 
-$E = mc^2 + AI$
+$E_0 = mc^2 + AI$
