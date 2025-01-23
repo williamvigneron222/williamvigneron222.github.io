@@ -157,6 +157,8 @@ footer {
   background-color: #333333;
   font-size: 25px;
   color:#ffffff;
+  position: fixed;
+  bottom: 0;
 }
 
 .sketch {
