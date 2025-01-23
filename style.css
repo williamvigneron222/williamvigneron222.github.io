@@ -70,8 +70,6 @@ p a:hover {
   text-decoration: underline;
 }
 
-
-
 .header {
   background-repeat: no-repeat;
   background-position: center;
@@ -137,7 +135,7 @@ a .header:hover {
 }
 
 #giraffe {
-  background-image: url("https://images.unsplash.com/photo-1542382853-7dc1393efd3a?q=80&w=2675&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-image: url("https://i.imgur.com/YDf2RxR.png");
   background-position: left top;
   background-repeat: no-repeat;
   background-size: cover;
