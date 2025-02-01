@@ -159,8 +159,8 @@ footer {
   font-size: 25px;
   color:#ffffff;
   position: fixed;
-  /*width:100%;*/
-  left: 0;
+  width:100%;
+  /*left: 0;*/
   bottom: 0;
 }
 
