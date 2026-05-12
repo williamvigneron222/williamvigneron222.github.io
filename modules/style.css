@@ -135,7 +135,7 @@ a .header:hover {
 }
 
 #giraffe {
-  /* background-image: url("https://i.imgur.com/YDf2RxR.png"); */
+  background-image: url("https://i.imgur.com/YDf2RxR.png");
   background-position: left top;
   background-repeat: no-repeat;
   background-size: cover;
